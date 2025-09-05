@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Yossef Roshdy 👋</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yossef-roshdy969/your-repo/main/banner.png" width="600" alt="Mechatronics Banner" />
+  <img src="https://raw.githubusercontent.com/yossef-roshdy969/portfolio/main/banner.png" width="600" alt="Mechatronics Banner" />
 </p>
 
 
