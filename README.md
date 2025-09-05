@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Yossef Roshdy 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Welcome gif" />
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="350" alt="Mechatronics Engineering" />
 </p>
 
 <p align="center">
