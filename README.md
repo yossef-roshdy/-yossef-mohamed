@@ -1,7 +1,8 @@
 <h1 align="center">Hi there, I'm Yossef Roshdy 👋</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="350" alt="Engineering Automation" />
+  <img src="https://raw.githubusercontent.com/yossef-roshdy969/portfolio/main/banner.png" width="800" alt="Mechatronics Banner" />
 </p>
+
 
 
 
