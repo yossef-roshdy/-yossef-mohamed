@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Yossef Roshdy 👋</h1>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif" width="350" alt="Electronics GIF" />
+  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="350" alt="Engineering Automation" />
 </p>
+
 
 
 
