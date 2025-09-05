@@ -1,8 +1,9 @@
 <h1 align="center">Hi there, I'm Yossef Roshdy 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="350" alt="Mechatronics Engineering" />
+  <img src="https://raw.githubusercontent.com/yossef-roshdy969/your-repo/main/banner.png" width="600" alt="Mechatronics Banner" />
 </p>
+
 
 <p align="center">
   Fresh Graduate Mechatronics Engineer | ⚙ Power Electronics & Automation | Embedded Systems
